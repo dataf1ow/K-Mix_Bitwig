@@ -1,5 +1,5 @@
 # KMix_Bitwig
-A Script integrating the K-Mix with Bitwig
+A Script integrating the K-Mix with Bitwig. Drag the K-Mix folder into yur Bitwig User Controller Scipts folder. 
 
 Ver 0.1 - 10/19/2016
 
